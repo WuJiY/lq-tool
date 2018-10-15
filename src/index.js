@@ -10,7 +10,6 @@ import RegularUtil from "./RegularUtil"
 import CompareUtil from "./CompareUtil"
 import MoneyFormat from "./MoneyFormat"
 import CountlyUtil from "./CountlyUtil"
-import FunDebugUtil from "./FunDebugUtil"
 import CityUtil from "./CityUtil"
 
 /*
@@ -219,7 +218,6 @@ export {
   CompareUtil,
   MoneyFormat,
   CountlyUtil,
-  FunDebugUtil,
   CityUtil,
 };
 
@@ -236,7 +234,6 @@ let CommonUtil = {
   CompareUtil,
   MoneyFormat,
   CountlyUtil,
-  FunDebugUtil,
   CityUtil,
 };
 

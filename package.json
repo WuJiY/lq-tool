@@ -1,6 +1,6 @@
 {
   "name": "lq-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./lib/index.js",
   "scripts": {
@@ -11,9 +11,6 @@
   },
   "author": "xlb",
   "license": "ISC",
-  "dependencies": {
-    "fundebug-javascript": "^0.3.4"
-  },
   "devDependencies": {
     "babel-preset-env": "^1.6.0",
     "babel-preset-stage-0": "^6.24.1",
@@ -32,6 +29,7 @@
     "babel-preset-stage-3": "^6.24.1",
     "css-loader": "^0.26.0",
     "extract-text-webpack-plugin": "^1.0.1",
+    "fundebug-javascript": "^0.3.4",
     "gulp": "^3.9.1",
     "gulp-connect": "^5.0.0",
     "gulp-less": "^3.3.0",
